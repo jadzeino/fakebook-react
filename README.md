@@ -2,6 +2,9 @@
 
 FakeBook is a full-stack clone of the popular social media platform, Facebook. It provides all the core features you'd expect from a social media platform, such as user authentication, friend requests, timeline posts, media uploads, and real-time messaging. The project uses **Node.js** and **Express** for the backend API, **MongoDB** for data storage, and **React** for the frontend with hooks and functional components.
 
+![App Screenshot](./Screenshot%202024-09-22%20at%2014.25.43.png)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
